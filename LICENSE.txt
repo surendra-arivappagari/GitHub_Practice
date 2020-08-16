@@ -1,2 +1,5 @@
 #this is license file
 LICENCE NUmber: 12345
+
+Adding new line bro, for diff and difftool commands!
+UpdatedBranch2 -> Adding new line.
