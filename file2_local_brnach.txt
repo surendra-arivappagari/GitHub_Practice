@@ -1,0 +1,1 @@
+#file2_local_brnach.txt is to merge the file available in diffrent branch in local to master in remote.
