@@ -1,1 +1,3 @@
 Adding file in Github remote. Lets check in local by pulling(Fetch+Merge) into local.
+
+Created branch on remote and testing the 20Aug2020_Github.txt file. Lets validate it.
