@@ -1,0 +1,11 @@
+This is for Pull option with Rebase.
+  Example Scenario:
+     1.You have done cahnges in Remote Github.
+     2.YOu have done few more changes into local.
+     3.When we try pull option, it will through error. Because Remote and local are not in sync.
+          :Solution:
+              3A. With Rebase pull in local, it will point to old local changes, 
+              3B. then pull changes apply into local   ,
+              3C. Now what ever we done changes in Local, it will apply after the 3B step. 
+              
+              So that, every step will be in sync, we can gettid of confusion to GIt.
