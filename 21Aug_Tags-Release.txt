@@ -1,0 +1,2 @@
+This is to check updating the tags available in local.
+Lets update the tags and repoint to new commit ID.
