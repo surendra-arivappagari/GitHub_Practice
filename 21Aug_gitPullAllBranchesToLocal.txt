@@ -1,3 +1,6 @@
 Hello,
   with this file, lets pull all branhces available in GitHub remote to Local. 
   So that in local also we can have same no..of branches with same set of files.
+
+
+##Modifying for pull --Rebase option.
